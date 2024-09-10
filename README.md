@@ -13,8 +13,8 @@ This is a simple Rust command-line tool that continuously pings a domain name or
 
 1. Clone the repository or create a new Rust project:
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/markheramis/Rusping.git
+    cd Rusping
     ```
 2. Build the project using Cargo:
     ```bash
