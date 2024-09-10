@@ -1,4 +1,4 @@
-# Rusping
+# Rusping (DNS Resolver)
 
 This is a simple Rust command-line tool that continuously pings a domain name or IP address to resolve its current IP address. The program runs indefinitely, displaying the resolved IP address every 2 seconds until the user manually stops it using `Ctrl+C`.
 
